@@ -1,0 +1,29 @@
+
+*   {
+font-size: 40px;
+
+}
+
+.title  {
+color: black;
+
+
+}
+
+.marca  {
+color: yellow;
+font-weight: bold;
+}
+
+.marca:hover    {
+    color: rgb(118, 204, 118);
+}
+
+.as {
+color: rgb(202, 117, 202);
+font-weight: bold;
+}
+
+.as:hover   {
+    color: red;
+}
